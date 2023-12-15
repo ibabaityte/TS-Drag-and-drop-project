@@ -11,7 +11,6 @@ While using this app users can:
 ## Screenshots
 ![img.jpg](pictures/img.jpg)
 ![img2.jpg](pictures/img2.jpg)
-![img3.jpg](pictures/img3.jpg)
 
 ## Technologies
 Project is created with:
